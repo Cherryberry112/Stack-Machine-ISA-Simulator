@@ -53,7 +53,7 @@ gcc Project_code-5.c -o stack_machine -lncurses -lm
 
 
 
-### 📊 How it Works
+###  How it Works
 
 1. **The Stack**: Represented as a dynamic linked list where each node stores a token (operand or operator).
 2. **The Interface**:
